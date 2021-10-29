@@ -9,4 +9,4 @@ An all-day theme for Visual Studio Code based on the Evangelion Unit-01 color pa
 ![screen2](./static/img/screen2.png)
 
 ## how to install
-Navigate to `extensions` tab on Visual studio code then search for eva-01
+You can find the extension on the [visual studio marketplace](https://marketplace.visualstudio.com/items?itemName=AndreaGubellini.eva-01)
