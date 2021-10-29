@@ -1,0 +1,37 @@
+{
+    "name": "eva-01",
+    "displayName": "eva-01-theme",
+    "description": "evangelion unit-01 inspired theme for VS Code",
+    "version": "1.0.0",
+    "publisher": "AndreaGubellini",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "evangelion",
+        "eva",
+        "eva-01",
+        "evangelion-01",
+        "purple",
+        "dark theme",
+        "andrea gubellini"
+    ],
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "eva-01",
+                "uiTheme": "vs-dark",
+                "path": "./themes/eva-01-color-theme.json"
+            }
+        ]
+    }
+}
